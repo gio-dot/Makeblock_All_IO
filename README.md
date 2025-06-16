@@ -1,5 +1,7 @@
-# Makeblock_All_IO
-Arduino Standard Programming for Makeblock mBot (mCore Board)
+# Makeblock_All_IO:  Arduino Standard Programming for Makeblock mBot (mCore Board)
+
+<img src="https://github.com/gio-dot/Makeblock_All_IO/blob/main/docs/images/R1robot-mBot.jpg" width="500">
+
 
  [Makeblock mBot](https://www.makeblock.com/pages/mbot-robot-kit) is a very good educational project, especially suited for younger students thanks to its use of the Scratch programming language and the dedicated Makeblock platform, which provides a comprehensive Arduino library.
 
@@ -31,5 +33,8 @@ This allows the robot to become a more useful tool for students in technical hig
 - Ultrasonic and Light sensors provide readings on serial monitor
 - Line Follower sensors activate respectively left and right onboard red leds 
 
----
-
+<p float="left">
+  <img src="https://github.com/gio-dot/Makeblock_All_IO/blob/main/docs/images/mCore%20%20image.jpg?raw=true" width="320" />
+  <img src="https://github.com/gio-dot/Makeblock_All_IO/blob/main/docs/images/mCore%20IO.PNG?raw=true" width="500" /> 
+ 
+</p>
