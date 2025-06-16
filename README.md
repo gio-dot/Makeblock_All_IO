@@ -20,7 +20,7 @@ This allows the robot to become a more useful tool for students in technical hig
 
 ##  Project Features
 
-- Use of **Arduino standard code** (no Makeblock library)
+- Use of **Arduino Uno standard code** (no need Makeblock library)
 - Compatibility with **standard Arduino IDE**
 - Use of **generic Arduino libraries** for sensors and actuators
 - Educational examples suitable for **technical high school students**
@@ -30,6 +30,8 @@ This allows the robot to become a more useful tool for students in technical hig
 ##  Provided example
 
 - Provided example test all onboard OUTPUTS by pressing onboard button
+- FastLED library used for RGB leds (others can be used)
+- EasyUltrasonic library used for distance sensor (others can be used)
 - Ultrasonic and Light sensors provide readings on serial monitor
 - Line Follower sensors activate respectively left and right onboard red leds 
 
